@@ -3,6 +3,8 @@ import {connect} from 'react-redux'
 import PropTypes from 'prop-types'
 import {auth} from '../store'
 
+// this entire component is for login and sign up
+
 /**
  * COMPONENT
  */
